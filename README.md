@@ -1,4 +1,5 @@
-
+# Disclaimer
+Due to my recent ban, i'd like to keep it clear that I am NOT liable for any damages caused by this tool. I created this with strictly the intent of testing discord anti-raid on your OWN server. Any damages caused by this tool will not make me at fault. Thank you.
 <h1 align="center">Azora Multi-Tools</h1>
 
 <p align="center">
@@ -15,7 +16,7 @@
   - <strong>Frequently updated</strong>.<br>
   - <strong>Free</strong> for everyone.<br>
   - The tools include: <strong>Scanning, Osint, Utilities, Builder, Roblox, Discord</strong>, And more..
-  - Installation and requirements <a href=https://github.com/sigmachipmunk/Azora-Multitool/tree/main#requirements>Found here</a>
+  - Installation and requirements <a href=https://github.com/ProjAzora/Azora-Multitool/tree/main#requirements>Found here</a>
   <br><br>
 </p>
 
